@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "title": "Complete the task_manage cli app",
+        "completed": true,
+        "created_at": "2026-02-06T22:57:56.252241",
+        "priority": 1,
+        "due_date": null
+    }
+]
