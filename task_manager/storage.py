@@ -4,7 +4,7 @@ from typing import List
 from task_manager.models import Task
 from task_manager.exceptions import StorageError
 
-DATA_DIR = "CLI-Task_Manager\\data"
+DATA_DIR = "data"
 DB_FILE = "tasks.json"
 
 
